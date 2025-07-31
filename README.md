@@ -12,7 +12,7 @@ LocalBizFinder is a Spring-based web application that enables users to discover,
 
 ## Technologies Used
 
-- **Backend**: Spring Boot
+- **Backend**: Spring
 - **Frontend**: JSP, HTML, CSS, Bootstrap
 - **Database**: MySQL
 - **Build Tool**: Maven
